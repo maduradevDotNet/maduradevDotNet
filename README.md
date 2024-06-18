@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1722470400&v=beta&t=cSgyHOROb7kTzx72GKWRVzADb7eTPks6bC9ncvv955Y)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
 
 
 <h1 align="center">Hi 👋, I'm Pasindu Dissanayake</h1>
