@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pasindu Dissanayake</h1>
 <h3 align="center">Expert in ASP.NET, SQL, and AWS. Building scalable solutions</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif">
+img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maduradevdotnet&label=Profile%20views&color=0e75b6&style=flat" alt="maduradevdotnet" /> </p>
 
