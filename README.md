@@ -9,27 +9,15 @@
 
 ---
 
-### 🔭 Current Work
-- Working on [building scalable web applications using ASP.NET, SQL, and AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
+[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/c/dotnetmastery)
 
-### 🌱 Learning
-- Currently learning **C#, .NET, React, and Angular**.
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/bhrugenpatel)
 
-### 👯 Collaboration
-- Looking to collaborate on [innovative projects using ASP.NET, SQL, and AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
-- Seeking help with [optimizing cloud deployments on AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
+[![Website URL](https://img.shields.io/static/v1?color=green&label=DotNetMastery&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://dotnetmastery.com/)
 
-### 👨‍💻 Projects
-- All of my projects are available at [My Projects](https://vivopronet.blogspot.com).
+### Visitor count
+<img src="https://profile-counter.glitch.me/bhrugen/count.svg" />
 
-### 📝 Blog
-- I regularly write articles on [My Blog](https://vivopronet.blogspot.com).
-
-### 💬 Expertise
-- Ask me about **Technical Expertise, C#, ASP.NET**.
-
-### 📫 Contact
-- Reach me at **[www.pasindumadura@yahoo.com](mailto:www.pasindumadura@yahoo.com)**.
 
 
 
