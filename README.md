@@ -41,16 +41,6 @@
 ---
 
 ### Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/pasindu-dissanayake-297706178" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/pasindu.disanayake" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
-
-
 [![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/@PasinduLifeStories-Vlogs)
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/pasindu-dissanayake-297706178/)
