@@ -21,12 +21,15 @@
 
 ---
 
-### Connect with me
+<div align="center">
+  ### Connect with me
 [![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/@PasinduLifeStories-Vlogs)
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/pasindu-dissanayake-297706178/)
 
 [![Website URL](https://img.shields.io/static/v1?color=green&label=VivoProNet&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://vivopronet.blogspot.com/)
+</div>
+
 ---
 
 ### Languages and Tools
