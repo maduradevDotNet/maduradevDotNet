@@ -5,7 +5,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maduradevdotnet&label=Profile%20views&color=0e75b6&style=flat" alt="maduradevdotnet" /> </p>
+### Visitor count
+<img src="https://profile-counter.glitch.me/bhrugen/count.svg" />
 
 ---
 
@@ -16,8 +17,7 @@
 
 [![Website URL](https://img.shields.io/static/v1?color=green&label=DotNetMastery&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://dotnetmastery.com/)
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/bhrugen/count.svg" />
+
 
 
 
