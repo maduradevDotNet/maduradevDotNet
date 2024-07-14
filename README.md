@@ -9,34 +9,15 @@
 <img src="https://profile-counter.glitch.me/bhrugen/count.svg" />
 
 ------
-
-
 ### 🔭 Current Work
 - Working on [building scalable web applications using ASP.NET, SQL, and AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
-
-### 🌱 Learning
-- Currently learning **C#, .NET, React, and Angular**.
 
 ### 👯 Collaboration
 - Looking to collaborate on [innovative projects using ASP.NET, SQL, and AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
 - Seeking help with [optimizing cloud deployments on AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
 
-### 👨‍💻 Projects
-- All of my projects are available at [My Projects](https://vivopronet.blogspot.com).
-
-### 📝 Blog
-- I regularly write articles on [My Blog](https://vivopronet.blogspot.com).
-
-### 💬 Expertise
-- Ask me about **Technical Expertise, C#, ASP.NET**.
-
 ### 📫 Contact
 - Reach me at **[www.pasindumadura@yahoo.com](mailto:www.pasindumadura@yahoo.com)**.
-
-
-
-### ⚡ Fun Fact
-- **ASK ANY**
 
 ---
 
