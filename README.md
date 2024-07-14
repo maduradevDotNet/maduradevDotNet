@@ -91,8 +91,9 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maduradevdotnet&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="maduradevdotnet" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maduradevdotnet&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="maduradevdotnet" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maduradevdotnet&" alt="maduradevdotnet" />
