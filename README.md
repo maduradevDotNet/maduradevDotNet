@@ -31,8 +31,7 @@
 ### 📫 Contact
 - Reach me at **[www.pasindumadura@yahoo.com](mailto:www.pasindumadura@yahoo.com)**.
 
-### 📄 Resume
-- Know about my experiences: [My Resume](https://drive.google.com/file/d/1J0OYGrWHQoN0H3xNIQVZbOPGNtdjmXqC/view).
+
 
 ### ⚡ Fun Fact
 - **ASK ANY**
