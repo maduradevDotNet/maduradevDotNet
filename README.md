@@ -9,6 +9,18 @@
 
 ---
 
+
+[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/c/dotnetmastery)
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/bhrugenpatel)
+
+[![Website URL](https://img.shields.io/static/v1?color=green&label=DotNetMastery&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://dotnetmastery.com/)
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/bhrugen/count.svg" />
+
+
+
 ### 🔭 Current Work
 - Working on [building scalable web applications using ASP.NET, SQL, and AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
 
