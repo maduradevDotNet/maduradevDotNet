@@ -95,45 +95,8 @@
   <a href="https://github.com/maduradevDotNet/maduradevDotNet">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maduradevdotnet&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="maduradevdotnet" />
   </a>
-  <a href="https://github.com/maduradevDotNet/maduradevDotNet">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=maduradevDotNet&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="maduradevDotNet's GitHub Stats" />
-  </a>
 
 
-
-
-  <p align="center">
-  <div style="background-color: #1d1f21; color: #c9cacc; padding: 20px; border-radius: 10px; display: inline-block;">
-    <h2 style="color: #ffffff;">Pasindu Dissanayake's GitHub Stats</h2>
-    <ul style="list-style: none; padding: 0;">
-      <li style="margin-bottom: 10px;">
-        <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png" alt="star" width="20" height="20">
-        Total Stars Earned: 2.3k
-      </li>
-      <li style="margin-bottom: 10px;">
-        <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png" alt="commits" width="20" height="20">
-        Total Commits (2024): 63
-      </li>
-      <li style="margin-bottom: 10px;">
-        <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f528.png" alt="prs" width="20" height="20">
-        Total PRs: 7
-      </li>
-      <li style="margin-bottom: 10px;">
-        <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a8.png" alt="issues" width="20" height="20">
-        Total Issues: 14
-      </li>
-      <li style="margin-bottom: 10px;">
-        <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" alt="contributed" width="20" height="20">
-        Contributed to (last year): 2
-      </li>
-    </ul>
-    <div style="display: flex; justify-content: center;">
-      <div style="background-color: #333333; color: #ffffff; padding: 20px; border-radius: 50%; width: 80px; height: 80px; display: flex; justify-content: center; align-items: center;">
-        B+
-      </div>
-    </div>
-  </div>
-</p>
 
 </p>
 
