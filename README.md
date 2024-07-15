@@ -3,6 +3,13 @@
 <h1 align="center">Hi 👋, I'm Pasindu Dissanayake</h1>
 <h3 align="center">Expert in ASP.NET, SQL, and AWS. Building scalable solutions.</h3>
 
+<br/>
+   <p align="center" color:"red">
+<!--      <a href="https://github.com/soumya0587/readme-typing-svg"> -->
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Pasindu Dissanayake 🏽😀; I am a Full-Stack%20Web%20Developer 🏻‍💻; Interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+      </p>
+
+
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo">
 
 ### Visitor count
