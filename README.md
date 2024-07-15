@@ -1,7 +1,9 @@
 [![MasterHead](https://github.com/NetCraftMaster/NetCraftMaster/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?raw=true)](https://rishavchanda.io)
 
-<h1 align="center">Hi , I'm Pasindu Dissanayake</h1>
-<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
+<h1 align="center">
+       Hi , I'm Pasindu Dissanayake
+ <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
+</h1>
 <h3 align="center">Expert in ASP.NET, SQL, and AWS. Building scalable solutions.</h3>
 
 <br/>
