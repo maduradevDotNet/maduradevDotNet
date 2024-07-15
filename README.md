@@ -119,8 +119,16 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maduradevdotnet&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="maduradevdotnet" />
   </a>
 
-
 </p>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
+
+<hr>
 
 
 
