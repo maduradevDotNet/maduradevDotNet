@@ -116,6 +116,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maduradevdotnet&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="maduradevdotnet" />
   </a>
 
+  <p><a href="https://github.com/maduradevDotNet/maduradevDotNet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhrugen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bhrugen's GitHub Stats" />
+</a>
+
 
 
 </p>
