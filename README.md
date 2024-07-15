@@ -50,6 +50,10 @@
 
 [![Website URL](https://img.shields.io/static/v1?color=green&label=VivoProNet&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://vivopronet.blogspot.com/)
 
+[![Coursera URL](https://img.shields.io/static/v1?color=blue&label=coursera&logo=coursera&logoColor=white&style=for-the-badge&message=Profile)](https://www.coursera.org/user/ca98cf45a1918ea6c9610bffc6c5f176)
+
+
+
 </div>
 
 
