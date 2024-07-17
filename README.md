@@ -108,6 +108,14 @@
         <img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET Core" width="48" height="48" />
       <br>ASP.NET
     </td>
+
+              <td align="center" width="96">
+        <img src=" https://github.com/maduradevDotNet/maduradevDotNet/blob/main/image_2024-07-17_212401680.png?raw=true" alt="Swagger" width="48" height="48" />
+      <br>Swagger
+    </td>
+
+         
+        
   </tr>
   <tr>
     <td align="center" width="96">
