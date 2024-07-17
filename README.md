@@ -144,7 +144,8 @@
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![maduradevDotNet github stats](https://github-readme-stats.vercel.app/api?username=maduradevDotNet&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![maduradevDotNet GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maduradevDotNet&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![maduradevDotNet github stats](https://github-readme-stats.vercel.app/api?username=maduradevDotNet&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![maduradevDotNet GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maduradevDotNet&theme=iceberg&border_radius=8) |
 | -- | -- |
+
 
 <hr>
