@@ -116,7 +116,7 @@
     </td>
     <td align="center" width="96">
         <a href="link_to_your_microsoft_sql_page">
-          <img src="https://skillicons.dev/icons?i=sqlserver" alt="Microsoft SQL Server" width="48" height="48" />
+          <img src="./icons/Azure-Dark.svg" width="48"> 
           <br>Microsoft SQL Server
         </a>
     </td>
