@@ -104,18 +104,14 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
-           <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET Core" width="48" height="48" />
       <br>ASP.NET
     </td>
-
-              <td align="center" width="96">
-        <img src=" https://github.com/maduradevDotNet/maduradevDotNet/blob/main/image_2024-07-17_212401680.png?raw=true" alt="Swagger" width="48" height="48" />
+    <td align="center" width="96">
+        <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/image_2024-07-17_212401680.png?raw=true" alt="Swagger" width="48" height="48" />
       <br>Swagger
     </td>
-
-         
-        
   </tr>
   <tr>
     <td align="center" width="96">
@@ -150,14 +146,13 @@
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
       <br>PostgreSQL
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
       <br>Postman
     </td>
-  
   </tr>
-
 </table>
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
