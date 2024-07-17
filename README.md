@@ -46,8 +46,8 @@
 
 <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966.gif" width="1920" />
 
-<div class="center">
-
+<div align="center">
+       
 # My favorite tools and technologies <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 
@@ -133,31 +133,6 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-### 🔭 Current Work
-<p style="font-size: 12px;">
-- Building scalable web applications using ASP.NET, SQL, and AWS.
-</p>
-
-### 👯 Collaboration
-<p style="font-size: 12px;">
-- Open to innovative projects in ASP.NET, SQL, and AWS.<br>
-- Seeking advice on optimizing AWS cloud deployments.
-</p>
-
-### 📫 Contact
-<p style="font-size: 12px;">
-- Email: <a href="mailto:pasindumadura@yahoo.com">pasindumadura@yahoo.com</a>
-</p>
-
-
-
-
-
-<hr>
-
-
 
 <br>
 
