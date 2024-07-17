@@ -114,15 +114,19 @@
         <img src="https://skillicons.dev/icons?i=jquery" alt="JQuery" width="48" height="48" />
       <br>JQuery
     </td>
-
-
-
+    <td align="center" width="96">
+        <a href="link_to_your_microsoft_sql_page">
+          <img src="https://skillicons.dev/icons?i=sqlserver" alt="Microsoft SQL Server" width="48" height="48" />
+          <br>Microsoft SQL Server
+        </a>
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
       <br>Postman
     </td>
   </tr>
 </table>
+
 
 </div>
 
