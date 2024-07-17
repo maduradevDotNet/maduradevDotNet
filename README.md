@@ -45,7 +45,6 @@
        
 # My favorite tools and technologies <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -115,8 +114,8 @@
       <br>JQuery
     </td>
     <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" alt="Azure" width="48" height="48" />
-          <br>Azure
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" alt="Azure" width="48" height="48" />
+        <br>Azure
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
@@ -131,6 +130,7 @@
     </td>
  </tr>
 </table>
+
 
 
 </div>
