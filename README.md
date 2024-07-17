@@ -16,60 +16,6 @@
 
 
 
-### 🔭 Current Work
-<p style="font-size: 12px;">
-- Building scalable web applications using ASP.NET, SQL, and AWS.
-</p>
-
-### 👯 Collaboration
-<p style="font-size: 12px;">
-- Open to innovative projects in ASP.NET, SQL, and AWS.<br>
-- Seeking advice on optimizing AWS cloud deployments.
-</p>
-
-### 📫 Contact
-<p style="font-size: 12px;">
-- Email: <a href="mailto:pasindumadura@yahoo.com">pasindumadura@yahoo.com</a>
-</p>
-
-
-
-
-
-<hr>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
-
-> I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains.
-
-<br>
-
-<div align="center">
-       
-[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/@PasinduLifeStories-Vlogs)
-
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/pasindu-dissanayake-297706178/)
-
-[![Website URL](https://img.shields.io/static/v1?color=green&label=VivoProNet&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://vivopronet.blogspot.com/)
-
-[![Coursera URL](https://img.shields.io/static/v1?color=blue&label=coursera&logo=coursera&logoColor=white&style=for-the-badge&message=Profile)](https://www.coursera.org/user/ca98cf45a1918ea6c9610bffc6c5f176)
-
-
-
-</div>
-
-<br>
-<hr>
-
-<img src="https://raw.githubusercontent.com/maduradevDotNet/maduradevDotNet/25bff2c73d89823b44bc5aeb42d387af452c1e9a/graph.svg" />
-
-
-<img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966.gif" width="1920" />
-
 # My favorite tools and technologies <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 > Tools and technologies that I have worked with and am interested in
@@ -153,6 +99,62 @@
   </tr>
 </table>
 
+
+
+
+### 🔭 Current Work
+<p style="font-size: 12px;">
+- Building scalable web applications using ASP.NET, SQL, and AWS.
+</p>
+
+### 👯 Collaboration
+<p style="font-size: 12px;">
+- Open to innovative projects in ASP.NET, SQL, and AWS.<br>
+- Seeking advice on optimizing AWS cloud deployments.
+</p>
+
+### 📫 Contact
+<p style="font-size: 12px;">
+- Email: <a href="mailto:pasindumadura@yahoo.com">pasindumadura@yahoo.com</a>
+</p>
+
+
+
+
+
+<hr>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
+
+> I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains.
+
+<br>
+
+<div align="center">
+       
+[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/@PasinduLifeStories-Vlogs)
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/pasindu-dissanayake-297706178/)
+
+[![Website URL](https://img.shields.io/static/v1?color=green&label=VivoProNet&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://vivopronet.blogspot.com/)
+
+[![Coursera URL](https://img.shields.io/static/v1?color=blue&label=coursera&logo=coursera&logoColor=white&style=for-the-badge&message=Profile)](https://www.coursera.org/user/ca98cf45a1918ea6c9610bffc6c5f176)
+
+
+
+</div>
+
+<br>
+<hr>
+
+<img src="https://raw.githubusercontent.com/maduradevDotNet/maduradevDotNet/25bff2c73d89823b44bc5aeb42d387af452c1e9a/graph.svg" />
+
+
+<img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966.gif" width="1920" />
 
 
 
