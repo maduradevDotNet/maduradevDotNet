@@ -1,4 +1,4 @@
- <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
+ <a align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
  <h1>
 <p align="center" color:"red">
 <!--      <a href="https://github.com/soumya0587/readme-typing-svg"> -->
