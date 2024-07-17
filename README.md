@@ -134,10 +134,6 @@
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/maduradevDotNet/maduradevDotNet/25bff2c73d89823b44bc5aeb42d387af452c1e9a/graph.svg" />
-
-
-
 
 <div align="center">
   <h2> My Contributions </h2>
