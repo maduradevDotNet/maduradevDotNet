@@ -142,15 +142,13 @@
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
       <br>PostgreSQL
     </td>
-  
-  </tr>
-  <tr>
-    <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
       <br>Postman
     </td>
- 
+  
   </tr>
+
 </table>
 
 
