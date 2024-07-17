@@ -132,13 +132,6 @@
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<br>
-
-
-
-<br>
 <hr>
 
 <img src="https://raw.githubusercontent.com/maduradevDotNet/maduradevDotNet/25bff2c73d89823b44bc5aeb42d387af452c1e9a/graph.svg" />
