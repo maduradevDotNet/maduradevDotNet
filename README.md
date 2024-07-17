@@ -7,7 +7,7 @@
 </p>
 
 
-<div align="center">Expert in ASP.NET, SQL, and AWS. Building scalable solutions.</div>
+<h1 align="center">Expert in ASP.NET, SQL, and AWS. Building scalable solutions.</h1>
 
 <br/>
 
