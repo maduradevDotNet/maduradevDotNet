@@ -115,10 +115,8 @@
       <br>JQuery
     </td>
     <td align="center" width="96">
-        <a href="link_to_your_azure_page">
           <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" alt="Azure" width="48" height="48" />
           <br>Azure
-        </a>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
