@@ -16,19 +16,22 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo">
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/bhrugen/count.svg" />
-
-------
 ### 🔭 Current Work
-- Working on [building scalable web applications using ASP.NET, SQL, and AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
+<p style="font-size: 12px;">
+- Building scalable web applications using ASP.NET, SQL, and AWS.
+</p>
 
 ### 👯 Collaboration
-- Looking to collaborate on [innovative projects using ASP.NET, SQL, and AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
-- Seeking help with [optimizing cloud deployments on AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
+<p style="font-size: 12px;">
+- Open to innovative projects in ASP.NET, SQL, and AWS.<br>
+- Seeking advice on optimizing AWS cloud deployments.
+</p>
 
 ### 📫 Contact
-- Reach me at **[www.pasindumadura@yahoo.com](mailto:www.pasindumadura@yahoo.com)**.
+<p style="font-size: 12px;">
+- Email: <a href="mailto:pasindumadura@yahoo.com">pasindumadura@yahoo.com</a>
+</p>
+
 
 
 
