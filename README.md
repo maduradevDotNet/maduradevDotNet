@@ -148,10 +148,7 @@
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
       <br>Postman
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
-      <br>Linux
-    </td>
+ 
   </tr>
 </table>
 
