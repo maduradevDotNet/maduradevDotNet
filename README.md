@@ -15,7 +15,7 @@
       </p>
 
 
-<div align="justify">
+<div align="center">
 
 <a href="https://www.coursera.org/user/ca98cf45a1918ea6c9610bffc6c5f176">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
