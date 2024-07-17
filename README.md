@@ -126,6 +126,7 @@
  <tr>
    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/maduradevDotNet/maduradevDotNet/a3a97a6103c796c073f05bdc944510ff6b393492/Microsoft_SQL_Server_Logo.svg" alt="Postman" width="48" height="48" />
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>MsSql
     </td>
  </tr>
