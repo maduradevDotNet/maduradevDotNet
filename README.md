@@ -127,6 +127,10 @@
     <img src="https://techstack-generator.vercel.app/webpack-icon.svg"  alt="MsSql" width="48" height="48" />
     <br>MsSql
   </td>
+   <td align="center" width="96">
+    <img src=" https://github.com/maduradevDotNet/maduradevDotNet/blob/main/ChatGPT.png?raw=true"  alt="MsSql" width="48" height="48" />
+    <br>ChatGpt
+  </td>
   </tr>
 
 </table>
