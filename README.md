@@ -70,9 +70,8 @@
 
 <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966.gif" width="1920" />
 
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# My favorite tools and technologies <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
-## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
