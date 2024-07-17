@@ -8,7 +8,7 @@
 </h1>
 
 
-<p align="center"><strong><span style="font-size: 24px;">Expert in ASP.NET, SQL, and AWS. Building scalable solutions.</span></strong></p>
+<p align="center"><strong><span style="font-size: 48px;">Expert in ASP.NET, SQL, and AWS. Building scalable solutions.</span></strong></p>
 
 
 
