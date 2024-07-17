@@ -122,6 +122,20 @@
       <br>Postman
     </td>
   </tr>
+  <tr>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg"  alt="MsSql" width="48" height="48" />
+    <br>MsSql
+  </td>
+  </tr>
+
+
+   <tr>
+   <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg"  alt="MsSql" width="48" height="48" />
+      <br>MsSql
+    </td>
+ </tr>
 
 </table>
 
