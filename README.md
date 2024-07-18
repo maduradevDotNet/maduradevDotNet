@@ -168,7 +168,7 @@
 <div align="center">
     <h3 style="text-align: left;">Support</h3>
     <p><a href="https://www.buymeacoffee.com/maduradevDotNet">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="80" width="300" alt="maduradevDotNet" />
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="maduradevDotNet" />
     </a></p>
 </div>
 
