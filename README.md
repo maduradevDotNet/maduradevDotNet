@@ -164,7 +164,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maduradevdotnet&show_icons=true&locale=en" alt="maduradevdotnet" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maduradevdotnet&" alt="maduradevdotnet" /></p>
 
 
 
