@@ -2,11 +2,10 @@
  <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
 </div> 
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-
  
 <h1 align="center">
+ <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
   <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20Pasindu%20Dissanayake;I%20am%20a%20Full-Stack%20Web%20Developer%20🧑‍💻;Interested%20in%20Coding%20🏃‍♂️;Curious%20to%20learn%20new%20things%20!&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=28&pause=1000" alt="Typing SVG">
 </h1>
 
