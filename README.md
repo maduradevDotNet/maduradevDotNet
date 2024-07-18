@@ -165,7 +165,7 @@
 <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966.gif" width="1920" />
 
 
-<div style="text-align: center;">
+<div align="center">
     <h3 style="text-align: left;">Support</h3>
     <p><a href="https://www.buymeacoffee.com/maduradevDotNet">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maduradevDotNet" />
