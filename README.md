@@ -134,6 +134,11 @@
     <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/ChatGPT.png?raw=true"  alt="MsSql" width="48" height="48" />
     <br>ChatGpt
   </td>
+
+   <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" />
+    <br>Syncfusion
+   </td>
   </tr>
 
 </table>
