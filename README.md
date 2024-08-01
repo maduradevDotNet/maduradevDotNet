@@ -1,3 +1,5 @@
+
+
 <div style="background-color: purple; padding: 20px; border-radius: 10px;">
 
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
@@ -13,9 +15,10 @@
 
 </div>
 
+
 <h3 align="center">Expert in ASP.NET, SQL, and AWS. Building scalable solutions.</h3>
 
-<!-- The rest of your content goes here without any background color changes -->
+
 <div align="center">
   <a href="https://www.coursera.org/user/ca98cf45a1918ea6c9610bffc6c5f176">
     <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera">
@@ -42,7 +45,7 @@
   </a>
 </div>
 
-<!-- Continue with the rest of your content -->
+
 
 <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966.gif" width="1920" />
 
@@ -50,9 +53,139 @@
        
 # My favorite tools and technologies <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
-<!-- Continue with the rest of your table and content -->
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="65" height="65" />
+      <br>Rest API
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET Core" width="48" height="48" />
+      <br>ASP.NET
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Swagger" width="65" height="65" />
+      <br>Swagger
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="48" height="48" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" alt="JQuery" width="48" height="48" />
+      <br>JQuery
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" alt="Azure" width="48" height="48" />
+        <br>Azure
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
+      <br>Postman
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg"  alt="MsSql" width="48" height="48" />
+    <br>MsSql
+  </td>
+   <td align="center" width="96">
+    <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/ChatGPT.png?raw=true"  alt="MsSql" width="48" height="48" />
+    <br>ChatGpt
+  </td>
+
+   <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" />
+    <br>Syncfusion
+   </td>
+  </tr>
+
+</table>
+
+
 
 </div>
 
-<!-- The rest of your content continues without background color changes -->
+<img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966.gif" width="1920" />
+
+<div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/maduradevDotNet/maduradevDotNet/0790d6679f73a13b354530e1bcb3385f5499577b/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+### GitHub Stats
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+| ![maduradevDotNet github stats](https://github-readme-stats.vercel.app/api?username=maduradevDotNet&rank_icon=percentile&show_icons=true&theme=dark&bg_color=000000&title_color=1F70C1&icon_color=1F70C1&text_color=F0F6FC&border_color=1F70C1&border_radius=8) | ![maduradevDotNet GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maduradevDotNet&theme=dark&border_radius=8) |
+| -- | -- |
+
+<img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966.gif" width="1920" />
+
+
+<div align="center">
+    <h3 style="text-align: left;">Support</h3>
+    <p><a href="https://www.buymeacoffee.com/maduradevDotNet">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="230" alt="maduradevDotNet" />
+    </a></p>
+</div>
+
+
+<img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966.gif" width="1920" />
+
+
+
 
