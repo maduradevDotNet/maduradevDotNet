@@ -1,4 +1,26 @@
 <p align="center">
+  <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/4c1eb0b6858419e117a42ab018094f1e.gif?raw=true" style="width: 850px; height: 315px; object-fit: cover;"/>
+</p>
+
+<div style="position: relative; width: 850px; height: 315px; margin: 0 auto; top: -315px;">
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="position: absolute; top: 0; left: 0;"/>
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="position: absolute; top: 0; right: 0;"/>
+
+  <div align="center" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
+  </div>
+
+  <h1 align="center" style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%);">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20Pasindu%20Dissanayake;I%20am%20a%20Full-Stack%20Web%20Developer%20🧑‍💻;Interested%20in%20Coding%20🏃‍♂️;Curious%20to%20learn%20new%20things%20!&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=28&pause=1000" alt="Typing SVG">
+  </h1>
+</div>
+
+
+
+
+
+
+<p align="center">
   <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/4c1eb0b6858419e117a42ab018094f1e.gif?raw=true" style="width: 900px; height: 230px; object-fit: cover;"/>
 </p>
 
