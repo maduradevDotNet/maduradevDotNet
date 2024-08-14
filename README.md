@@ -1,7 +1,7 @@
 
 
   <div align="center">
-    <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
+  
     
   <img align="left" src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/4c1eb0b6858419e117a42ab018094f1e.gif?raw=true" width="21%" style="display:inline;">
   <img align="right" src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/4c1eb0b6858419e117a42ab018094f1e.gif?raw=true" width="21%" style="display:inline;">
