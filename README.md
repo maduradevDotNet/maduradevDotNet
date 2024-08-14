@@ -1,9 +1,10 @@
-<div style="border: 2px solid #ddd; background-color: #333; max-width: 50px; margin: auto;">
+<div style="border: 1px solid #ddd; background-color: #333; max-width: 50px; margin: auto;">
 
   
 <p align="center">
   <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/4c1eb0b6858419e117a42ab018094f1e.gif?raw=true"   style="width: 1300px; height: 80px; object-fit: cover;"/>
 </p>
+
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;">
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;">
 
@@ -16,12 +17,10 @@
   </p>
 
   <p align="center">
-  <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/4c1eb0b6858419e117a42ab018094f1e.gif?raw=true" style="width: 1300px; height: 30px; object-fit: cover;"/>
+    <img src="https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966"  style="width: 1300px; height: 120px; object-fit: cover;" /> 
 </p>
 
 <div>
-
-
 
 
 
