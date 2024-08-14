@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/4c1eb0b6858419e117a42ab018094f1e.gif?raw=true" style="width: 900px; height: 280px; object-fit: cover;"/>
+  <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/4c1eb0b6858419e117a42ab018094f1e.gif?raw=true" style="width: 900px; height: 230px; object-fit: cover;"/>
 </p>
 
 
