@@ -1,5 +1,5 @@
 
-<div  style="background-color: purple; padding: 20px; border-radius: 10px;">
+<div  style=" width: 1300px; height: 100px; object-fit: cover;">
 <p align="center">
   <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/4c1eb0b6858419e117a42ab018094f1e.gif?raw=true" style="width: 1300px; height: 100px; object-fit: cover;"/>
 </p>
