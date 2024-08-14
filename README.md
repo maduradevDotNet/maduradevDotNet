@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/[new-image-filename].gif?raw=true" style="width: 900px; height: 230px; object-fit: cover;"/>
-</p>
-
-
 
 <p align="center">
 
