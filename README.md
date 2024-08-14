@@ -165,7 +165,7 @@
 
 <div align="center">
   <h2 align="center"> 🔥 My Contributions  🔥</h2>
-  <br>
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/maduradevDotNet/maduradevDotNet/0790d6679f73a13b354530e1bcb3385f5499577b/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
