@@ -183,12 +183,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maduradevdotnet&show_icons=true&locale=en&layout=compact" alt="maduradevdotnet" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maduradevdotnet&show_icons=true&locale=en" alt="maduradevdotnet" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maduradevdotnet&" alt="maduradevdotnet" /></p>
-
 
     
 <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966.gif" width="1920" />
