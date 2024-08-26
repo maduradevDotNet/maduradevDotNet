@@ -181,10 +181,13 @@
 | ![maduradevDotNet github stats](https://github-readme-stats.vercel.app/api?username=maduradevDotNet&rank_icon=percentile&show_icons=true&theme=dark&bg_color=000000&title_color=1F70C1&icon_color=1F70C1&text_color=F0F6FC&border_color=1F70C1&border_radius=8) | ![maduradevDotNet GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maduradevDotNet&theme=dark&border_radius=8) |
 | -- | -- |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindu-dissanayake&show_icons=true&theme=dark" alt="Pasindu Dissanayake" />
-</p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maduradevdotnet&show_icons=true&locale=en&layout=compact" alt="maduradevdotnet" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maduradevdotnet&show_icons=true&locale=en" alt="maduradevdotnet" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maduradevdotnet&" alt="maduradevdotnet" /></p>
 
 
     
