@@ -183,6 +183,9 @@
 
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maduradevDotNet&rank_icon=percentile&show_icons=true&theme=dark&bg_color=000000&title_color=1F70C1&icon_color=1F70C1&text_color=F0F6FC&border_color=1F70C1&border_radius=8" alt="maduradevDotNet" />
+</p>
 
 
     
