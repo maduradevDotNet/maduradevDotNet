@@ -181,6 +181,13 @@
 | ![maduradevDotNet github stats](https://github-readme-stats.vercel.app/api?username=maduradevDotNet&rank_icon=percentile&show_icons=true&theme=dark&bg_color=000000&title_color=1F70C1&icon_color=1F70C1&text_color=F0F6FC&border_color=1F70C1&border_radius=8) | ![maduradevDotNet GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maduradevDotNet&theme=dark&border_radius=8) |
 | -- | -- |
 
+
+
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Shawnarun&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+
+    
 <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966.gif" width="1920" />
 
 
