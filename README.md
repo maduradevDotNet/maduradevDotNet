@@ -284,8 +284,7 @@
     <img src="https://media4.giphy.com/media/3LcOi1fXmCzNaYyemC/200w.gif?cid=6c09b952buu0v64b75k8kyoa0o2mc8f3xxigqjhtlm3gpnla&ep=v1_gifs_search&rid=200w.gif&ct=g"  style="width: 100px; height: 100px;" /> 
     <img src="https://media4.giphy.com/media/3LcOi1fXmCzNaYyemC/200w.gif?cid=6c09b952buu0v64b75k8kyoa0o2mc8f3xxigqjhtlm3gpnla&ep=v1_gifs_search&rid=200w.gif&ct=g"  style="width: 100px; height: 100px;" /> 
     <img src="https://media4.giphy.com/media/3LcOi1fXmCzNaYyemC/200w.gif?cid=6c09b952buu0v64b75k8kyoa0o2mc8f3xxigqjhtlm3gpnla&ep=v1_gifs_search&rid=200w.gif&ct=g"  style="width: 100px; height: 100px;" /> 
-    <img src="https://media4.giphy.com/media/3LcOi1fXmCzNaYyemC/200w.gif?cid=6c09b952buu0v64b75k8kyoa0o2mc8f3xxigqjhtlm3gpnla&ep=v1_gifs_search&rid=200w.gif&ct=g"  style="width: 100px; height: 100px;" /> 
-    <img src="https://media4.giphy.com/media/3LcOi1fXmCzNaYyemC/200w.gif?cid=6c09b952buu0v64b75k8kyoa0o2mc8f3xxigqjhtlm3gpnla&ep=v1_gifs_search&rid=200w.gif&ct=g"  style="width: 100px; height: 100px;" /> 
+    
     
 </p>
 
