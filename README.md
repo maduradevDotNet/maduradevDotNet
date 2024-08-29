@@ -244,6 +244,7 @@
 <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966.gif" width="1920" />
 
 
+<!--
 <div align="center">
  <h2 align="center"> 🔥 My Contributions 🔥 </h2> 
 
@@ -252,7 +253,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/maduradevDotNet/maduradevDotNet/0790d6679f73a13b354530e1bcb3385f5499577b/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
-</div>
+</div>   --!>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
