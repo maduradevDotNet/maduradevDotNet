@@ -1,6 +1,6 @@
 <div style="border: 1px solid #ddd; background-color: #333; max-width: 50px; margin: auto;">
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=MaduradevDotNet%20🤠&text2=💖%20A%20Passionate%20Coder%2C%20Developer%20and%20Debugger!&width=900&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=MaduradevDotNet%20🤠&text2=💖%20A%20Passionate%20Coder%2C%20Developer%20and%20Debugger!&width=900&height=200)
 
 
   <!--
