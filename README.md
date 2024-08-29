@@ -62,6 +62,77 @@
 # My favorite tools and technologies <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 
+
+
+
+
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <div align="center">
+        <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="48" /></a>
+        <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="48" /></a>
+        <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="48" /></a>
+        <a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery" alt="JQuery" height="48" /></a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <div align="center">
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" height="48" /></a>
+        <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET Core" height="48" /></a>
+        <a href="https://www.mysql.com/" target="_blank"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="MsSql" height="48" /></a>
+        <a href="https://swagger.io/" target="_blank"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Swagger" height="48" /></a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">DevOps</h3>
+      <div align="center">
+        <a href="https://aws.amazon.com/" target="_blank"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" height="48" /></a>
+        <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" alt="Azure" height="48" /></a>
+        <a href="https://www.docker.com/" target="_blank"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" height="48" /></a>
+        <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="48" /></a>
+        <a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="48" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Tools</h3>
+      <div align="center">
+        <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="48" /></a>
+        <a href="https://openai.com/" target="_blank"><img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/ChatGPT.png?raw=true" alt="ChatGPT" height="48" /></a>
+        <a href="https://www.syncfusion.com/" target="_blank"><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="Syncfusion" height="48" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -156,6 +227,9 @@
   </tr>
 
 </table>
+-->
+
+
 
 
 
