@@ -28,9 +28,11 @@
 
 
 <div align="center">
-  <a href="https://www.coursera.org/user/ca98cf45a1918ea6c9610bffc6c5f176">
+
+<a href="https://www.coursera.org/user/ca98cf45a1918ea6c9610bffc6c5f176">
     <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera">
-  </a>
+</a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@PasinduLifeStories-Vlogs">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
