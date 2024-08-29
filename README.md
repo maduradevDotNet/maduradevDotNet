@@ -1,6 +1,9 @@
 <div style="border: 1px solid #ddd; background-color: #333; max-width: 50px; margin: auto;">
 
-  
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=MaduradevDotNet%20🤠&text2=💖%20A%20Passionate%20Coder%2C%20Developer%20and%20Debugger!&width=900&height=400)
+
+
+  <!--
 <p align="center">
   <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/4c1eb0b6858419e117a42ab018094f1e.gif?raw=true"   style="width: 1300px; height: 80px; object-fit: cover;"/>
 </p>
@@ -18,7 +21,7 @@
 
   <p align="center">
     <img src="https://github.com/maduradevDotNet/maduradevDotNet/blob/main/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966.gif?raw=true"  style="width: 1300px; height: 120px; object-fit: cover;" /> 
-</p>
+</p>  --!>
 
 <div>
 
