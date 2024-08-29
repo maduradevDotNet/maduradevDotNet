@@ -254,8 +254,29 @@
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+
+<!--
 | ![maduradevDotNet github stats](https://github-readme-stats.vercel.app/api?username=maduradevDotNet&rank_icon=percentile&show_icons=true&theme=dark&bg_color=000000&title_color=1F70C1&icon_color=1F70C1&text_color=F0F6FC&border_color=1F70C1&border_radius=8) | ![maduradevDotNet GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maduradevDotNet&theme=dark&border_radius=8) |
-| -- | -- |
+| -- | -- |  --!>
+
+
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=maduradevDotNet&rank_icon=percentile&show_icons=true&theme=dark&bg_color=000000&title_color=1F70C1&icon_color=1F70C1&text_color=F0F6FC&border_color=1F70C1&border_radius=8" alt="maduradevDotNet github stats" />
+    </td>
+    <td rowspan="2">
+      <img src="https://media1.giphy.com/media/jcUR6JKU45E1eq3U7U/giphy.gif?cid=6c09b952f0yo8vv570xue0ns7s0a5jwwmcowmifbmzwnsuvm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Your Image" width="400" style="border: 2px solid #1F70C1; border-radius: 8px;" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maduradevDotNet&theme=dark&border_radius=8" alt="maduradevDotNet GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 
 
