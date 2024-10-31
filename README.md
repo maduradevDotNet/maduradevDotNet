@@ -1,7 +1,5 @@
 <div style="border: 1px solid #ddd; background-color: #333; max-width: 50px; margin: auto;">
  
-
-
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=MaduradevDotNet%20🤠&text2=💖%20Expert%20in%20ASP.NET%2C%20SQL%2C%20and%20AWS.%20Building%20scalable%20solutions.&width=900&height=200)
 
 
